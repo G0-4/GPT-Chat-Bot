@@ -1,2 +1,3 @@
-# GPT-Chat-Bot
+# GPT-Chat-Bot (Windows)
 A simple Chat Bot that logs message history and exports it to an text file.
+Create your own .env file with api key and run .py file through CMD. Will automatically request a new input after each response until you press CTRL+C. On exit, the script will print a copy of all the messages you've sent and received during that run. All messages are exported to the "log.txt" file an exit, and automatically formatted to be easier to read and navigate. Tested and works with LM Studio if you want to host your own local LLM; just make sure to make the necessary adjustments with the base_url parameter.
