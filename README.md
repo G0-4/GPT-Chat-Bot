@@ -4,7 +4,7 @@ A simple Chat Bot that uses the gpt-3.5-turbo Chat API. Prompts the user to desi
 # System prefix assignment and example of prompt context preservation
 ![image](https://github.com/G0-4/GPT-Chat-Bot-Windows-/assets/106123404/2ceaadae-0a1a-42d2-a134-f3df8ed4a55c)
 
-# Output after pressing CTRL+C
+# Output after pressing Process Termination
 ![image](https://github.com/G0-4/GPT-Chat-Bot-Windows-/assets/106123404/7f3b2d22-8d52-4abc-9a1e-211f5fda52b8)
 
 # log.txt file
